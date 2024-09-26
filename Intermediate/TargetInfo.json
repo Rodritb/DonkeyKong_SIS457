@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_SIS457",
+			"Path": "F:\\DonkeyKong_SIS457\\DonkeyKong_SIS457\\Source\\DonkeyKong_SIS457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_SIS457Editor",
+			"Path": "F:\\DonkeyKong_SIS457\\DonkeyKong_SIS457\\Source\\DonkeyKong_SIS457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

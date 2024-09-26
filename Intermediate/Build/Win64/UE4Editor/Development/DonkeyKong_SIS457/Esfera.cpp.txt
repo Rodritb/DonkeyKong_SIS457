@@ -1,0 +1,13 @@
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457\Definitions.DonkeyKong_SIS457.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\Esfera.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\Esfera.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsConstraintComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsConstraintComponent.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h

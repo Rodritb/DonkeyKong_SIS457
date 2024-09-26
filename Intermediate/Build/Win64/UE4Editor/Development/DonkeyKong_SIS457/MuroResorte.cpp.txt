@@ -1,0 +1,12 @@
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SIS457\Definitions.DonkeyKong_SIS457.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\MuroResorte.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Source\DonkeyKong_SIS457\Obstaculo.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\Obstaculo.generated.h
+F:\DonkeyKong_SIS457\DonkeyKong_SIS457\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_SIS457\MuroResorte.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
